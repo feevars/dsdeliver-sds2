@@ -13,7 +13,7 @@ function OrderSummary({amount, totalPrice, onSubmit} : Props) {
                 <div>
                     <span className="amount-selected-container">
                         <strong className="amount-selected">{amount}</strong>
-                    PEDIDOS SELECIONADOS
+                    PRODUTOS SELECIONADOS
                     </span>
                     <span className="order-summary-total">
                         <strong className="amount-selected">
